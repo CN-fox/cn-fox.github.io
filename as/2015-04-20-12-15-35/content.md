@@ -1,6 +1,5 @@
 #android studio
 ##添加svn忽略文件
-<hr/>
 
 ####通过文件右键添加忽略(仅在文件没有加入svn版本控制前)
 ![image](./image1.png)
